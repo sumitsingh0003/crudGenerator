@@ -24,6 +24,7 @@ const MainPage = () => {
           'Content-Type': "application/json"
         }
       });
+      
       if (response.data.message === 'Logout successful') {
         localStorage.removeItem('token')
         navigate('/')
