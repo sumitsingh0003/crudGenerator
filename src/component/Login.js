@@ -59,7 +59,7 @@ const Login = () => {
             }
             <nav className="navbar navbar-expand-lg">
                 <div className="container">
-                    <NavLink className="navbar-brand" target='_brijes' to="https://web2rise.com/">Web2Rise</NavLink>
+                    <NavLink className="navbar-brand" target='_sumit' to="https://sumitcoder.comin/">Sumit Singh</NavLink>
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
                         <span className="navbar-toggler-icon"></span>
                     </button>
@@ -90,8 +90,8 @@ const Login = () => {
 
                         </form>
                         <div className="credentials">
-                            <h6>Username:- <span>brijesh</span></h6>
-                            <h6>Password:- <span>brijes08</span></h6>
+                            <h6>Username:- <span>sumitsingh0003</span></h6>
+                            <h6>Password:- <span>sumit@123</span></h6>
                         </div>
                     </div>
                 </div>
@@ -102,8 +102,8 @@ const Login = () => {
                         <div className="col-sm-12 col-md-5">
                             <h6>About Us</h6>
                             <p className="text-justify">
-                                web2rise.com <i>CODE WANTS TO BE SIMPLE </i> is an initiative to help
-                                the upcoming programmers with the code. Web2Rise focuses on providing
+                                sumitcoder.in <i>CODE WANTS TO BE SIMPLE </i> is an initiative to help
+                                the upcoming programmers with the code. Sumit Singh focuses on providing
                                 the most efficient code or snippets as the code wants to be simple. We
                                 will help programmers build up concepts in different programming
                                 languages that include C, C++, Java, HTML, CSS, Bootstrap, JavaScript,
@@ -131,16 +131,16 @@ const Login = () => {
 
                             <ul className="social-icons">
                                 <li>
-                                    <a className="facebook" target="_brijes" href="https://www.facebook.com/web2rise/"><i className="fa fa-facebook"></i></a>
+                                    <a className="facebook" target="_sumit" href="https://www.facebook.com/sumitsingh0003/"><i className="fa fa-facebook"></i></a>
                                 </li>
                                 <li>
-                                    <a className="twitter" target="_brijes" href="https://twitter.com/web2rise"><i className="fa fa-twitter"></i></a>
+                                    <a className="twitter" target="_sumit" href="https://twitter.com/Sumitsingh0003"><i className="fa fa-twitter"></i></a>
                                 </li>
                                 <li>
-                                    <a className="instagram" target="_brijes" href="https://www.instagram.com/web2rise/"><i class="fa fa-instagram"></i></a>
+                                    <a className="instagram" target="_sumit" href="https://www.instagram.com/sumitsingh0003/"><i className="fa fa-instagram"></i></a>
                                 </li>
                                 <li>
-                                    <a className="linkedin" target="_brijes" href="https://www.linkedin.com/company/web2rise/mycompany/"><i className="fa fa-linkedin"></i></a>
+                                    <a className="linkedin" target="_sumit" href="https://www.linkedin.com/in/sumitsingh0003/"><i className="fa fa-linkedin"></i></a>
                                 </li>
                             </ul>
                         </div>
@@ -157,7 +157,7 @@ const Login = () => {
                         <div className="col-md-4 col-sm-6 col-xs-12">
                             <p className="developed-text">
                                 Powered by
-                                <a target="_brijes" href="https://web2rise.com/"> Web2Rise</a>
+                                <a target="_sumit" href="https://sumitcoder.in/"> sumitcoder</a>
                             </p>
                         </div>
                     </div>
